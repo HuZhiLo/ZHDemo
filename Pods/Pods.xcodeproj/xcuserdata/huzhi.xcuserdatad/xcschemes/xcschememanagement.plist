@@ -14,15 +14,35 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SlideMenu3D-SlideMenu3D.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SlideMenu3D.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>5F7D98D176598885F1EF7C6287C89604</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>928353533005A4198EBDA5B700D37B64</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>EDF51636CDEEFDF9370484793118094E</key>
+		<key>9C6E34EA14C71F7E0D2EAA73305D3BF8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E244117813E5E638EF4AA04520C3092B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

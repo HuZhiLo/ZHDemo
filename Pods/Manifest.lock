@@ -14,13 +14,16 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
+  - SlideMenu3D (0.1.6)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.1.0)
+  - SlideMenu3D (~> 0.1.6)
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  SlideMenu3D: 91d9421bd416353fedc0d3e722228bec70b4217d
 
-PODFILE CHECKSUM: abdb83fc1d7a54ac7a34f5b27294d3420437695b
+PODFILE CHECKSUM: 505ff30cae0b120c5559901b2934beb7de12b14c
 
 COCOAPODS: 1.0.1

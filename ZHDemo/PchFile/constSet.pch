@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  ZHDemo
+//
+//  Created by huzhi on 2017/8/15.
+//  Copyright © 2017年 ZhiHu. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+
+
+#define SCREEN_WIDTH  [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+
+
+#import "CircleLoadingView.h"
+
+#endif /* PrefixHeader_pch */
